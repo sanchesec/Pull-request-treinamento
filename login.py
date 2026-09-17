@@ -1,4 +1,4 @@
 print("Tela de login")
 usuario = input("Digite seu usuário")
 credencial = input("Digite sua senha")
-print("dev2")
+print("Desenvolvido por dev1")
